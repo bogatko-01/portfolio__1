@@ -77,6 +77,11 @@ footer.footer {
 	}
 }
 @media (max-width: 500px) {
+	html, body {
+	height: 100%;
+	flex-direction: column;
+	justify-content: space-between;
+	}
 .card-section h1, .card-section h3 {
 	padding: 0 8px;
 }
