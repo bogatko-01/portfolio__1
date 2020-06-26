@@ -108,6 +108,7 @@ body {
 @media (max-width: 768px) {
 	body {
 		height: auto;
+		display: block;
 	}
 	.my-office {
 		padding: 70px 10%;
@@ -142,6 +143,7 @@ body {
 @media (max-width: 500px) {
 	body {
 		height: auto;
+		display: block;
 	}
 
 	.my-office {
