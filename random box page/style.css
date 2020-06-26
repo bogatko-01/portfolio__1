@@ -63,6 +63,10 @@ footer.footer {
 	color: gold;
 }
 @media (max-width: 768px) {
+	body {
+		height: auto;
+		display: block;
+	}
 	.main-card-block {
 		height: auto;
 	}
@@ -77,10 +81,9 @@ footer.footer {
 	}
 }
 @media (max-width: 500px) {
-	html, body {
-	height: 100%;
-	flex-direction: column;
-	justify-content: space-between;
+	body {
+		height: auto;
+		display: block;
 	}
 .card-section h1, .card-section h3 {
 	padding: 0 8px;
