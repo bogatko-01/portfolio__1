@@ -430,6 +430,9 @@ ol,ul,dl {
 		margin: 0;
 		padding: 0;
 	}
+	.mail-section {
+		padding: 100px 5%;
+	}
 	.mail-section-form {
 		padding: 10px;
 	}
