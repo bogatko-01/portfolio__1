@@ -108,6 +108,8 @@ body {
 @media (max-width: 768px) {
 	.my-office {
 		padding: 70px 10%;
+	}
+	.my-office-wrapper {
 		width: 100%;
 	}
 	.form-registration {
@@ -137,7 +139,9 @@ body {
 @media (max-width: 500px) {
 
 	.my-office {
-		padding: 50px 10%;
+		padding: 50px 10%;	
+	}
+	.my-office-wrapper {
 		width: 100%;
 	}
 	.registration-blank {
